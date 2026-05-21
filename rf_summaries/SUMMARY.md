@@ -53,7 +53,7 @@
 | ukr | Ali_Kuzhuget | 627 106 | 384M | Ґ, Є, І, Ї |
 | uzb | Ali_Kuzhuget | 228 962 | 175M | Ғ, Қ, Ў, Ҳ |
 | xal | Ali_Kuzhuget | 107 742 | 14.9M | Ә, Һ, Җ, Ң, Ө, Ү |
-| xdq | urssivar | 40 000 | 33K | Ғ, Ҡ, Ҳ, Ӏ |
+| xdq | urssivar | 40 000 | 33K | Ә, Ғ, Ҡ, Ҳ, Ӏ, Һ |
 | yrk | Ali_Kuzhuget | 24 487 | 219K | Ӆ, Ӈ, Ӭ |
 
 **Totals**
